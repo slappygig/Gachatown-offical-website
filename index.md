@@ -1,37 +1,12 @@
 ## Welcome to GachaTown!
 
-You can use the [editor on GitHub](https://github.com/slappygig/Gachatown-offical-website/edit/gh-pages/index.md) to maintain and preview the content for gachatown's website!
+### About Gachatown
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in our site, from the content in your Markdown files.
+Gachatown is a mmorpg for kids based off the old toontown online disney mmorpg which closed in 2013 and now there has been
+tons of fan remakes but Gachatown will be toontown but gacha life/gacha club, make your own oc character and enter Gachatown to fight evil robot cogs who want to invade Gachatown, play minigames, meet friends and also make new friends and more!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/slappygig/Gachatown-offical-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This game is not ready for public release, its still in early development stages!
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Coming soon wip!
